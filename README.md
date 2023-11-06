@@ -1,4 +1,3 @@
-# qrmenu [200~MenuWithQRCode
 # MenuWithQRCode
 A coded Qr menu for restaurants and cafés.
   
